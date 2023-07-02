@@ -11,6 +11,8 @@ Created dynimc website in web development 2 course using asp.net web forms
       - [Customer Interface has three pages:](#customer-interface-has-three-pages-)
       - [Admin Interface has seven pages:](#admin-interface-has-seven-pages-)
   - [Screenshots](#screenshots)
+      - [Customer Interface Screenshots ](#customer-interface)
+      - [Admin Interface Screenshots](#admin-interface)
 
 ## What the website provide
 
@@ -66,7 +68,7 @@ it's store which sells personal computers and it's parts.
 &nbsp;
 \
 &nbsp;
-### Admin Interface
+### Admin Interface:
 \
 &nbsp;
 - **Home Page**
