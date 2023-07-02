@@ -8,8 +8,8 @@ Created dynimc website in web development 2 course using asp.net web forms
 
 - [Virtual Gate](#virtual-gate)
   - [What the website provide](#what-the-website-provide)
-      - [Customer Interface has three pages:](#customer-interface-has-three-pages-)
-      - [Admin Interface has seven pages:](#admin-interface-has-seven-pages-)
+      - [Customer Interface has three pages:](#customer-interface-has-three-pages)
+      - [Admin Interface has seven pages:](#admin-interface-has-seven-pages)
   - [Screenshots](#screenshots)
 
 ## What the website provide
