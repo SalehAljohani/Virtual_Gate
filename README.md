@@ -1,7 +1,7 @@
 
 # Virtual Gate
 
-Created dynimc website in web development 2 course using asp.net web forms
+Created website in web development 2 course using asp.net web forms
  
 
 # Table of contents
