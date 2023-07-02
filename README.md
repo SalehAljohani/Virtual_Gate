@@ -23,8 +23,7 @@ it's store which sells personal computers and it's parts.
   \
 &nbsp;
 - #### Customer Interface has three pages: 
-     \
-&nbsp;
+
     - **Home Page:** Greet the customer and show products with discounts.
      \
 &nbsp;
